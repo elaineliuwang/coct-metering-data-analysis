@@ -9,7 +9,7 @@ The City of Cape Town meters its commercial customers using Advanced Metering In
 3. A user interface that allows a user to set parameters and initiate an extraction
 
 # AMI Meter Data
-P1: Real Power (kW) in the forward (consumption) direction 
-P2: Real Power (kW) in the reverse (generation) direction e.g. on-site solar 
-Q: Reactive Power (KVAr) 
-S: Apparent Power (KVA) --> S^2 = P^2 + Q^2	(the vector sum) 
+- P1: Real Power (kW) in the forward (consumption) direction 
+- P2: Real Power (kW) in the reverse (generation) direction e.g. on-site solar 
+- Q: Reactive Power (KVAr) 
+- S: Apparent Power (KVA) --> S^2 = P^2 + Q^2	(the vector sum) 
